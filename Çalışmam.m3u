@@ -2,11 +2,11 @@
 #EXTINF:1 tvg-id="TRT1.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title="Ulusal",TRT 1 
 https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/054ed271-45ae-4bdc-b57d-97ddd9a59ac1/0.m3u8
 #EXTINF:1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Ulusal",atv
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&st=IvdfzC3ZaW_nWlRSlzH_ug&e=1669980992&dfp_paln=AQzzBGQEcDUSqB-nZvzBzutQ5ausdS_4BlPYWcJltItpeEyZXTa_TGvUbZGE9gN98kVAJW_1x20Ysmp-hr5Ri6FFYm1Y02kmnLEZIQGrHVOviB_0-Mkwc-MO80scMKOUoLu0om8OrwdYoSKqzjBglTfWgzv2udL5CjHUI1C2fafAZLSajiT2f80s07K8Jaf4G6ou3Y0m3Igq3XuuB0u0Sqe5you5E85kexoaRPjgyNBMmSTNYnKc0aDsSZvCdg7_QuH7WzF_34qdi4AL0d3sEb4KV6yLWKZe1fMr6XLY_Ksz7K4vyqjXzLvGJF6JtmN8GYjCotqUV00H8iS8lpVOGcx660z7arNX0d7m7WnOMYDscRDStkS_Qnt7WUtGwUGtiB2e99NcLgcpUjsA5yj17ljeW2nKWmxqXIr8GUfhiPJeP7FNsFGVg6Ey-amWACAwpn_Vm2aKNB5ftFZygB5sdkEt1kdkIhxW3YNrp9kFDgd0y1_wMFP3gpXy8atqy6ZDpWbePr3NMnq7IOqXiOUZ6JZ46AWbtqXv3_DWVn9fIc04BqvL_D9JBxo0ydqtzyvPvuwlsMb9HRDCLdvPUsL7SC8Txa8EA6ajOdkpqQzVphEOhuihTawSWoYbMbTv2D5wBEPg7PfBCTemYSFRwFsh96GOLIBLeMHtqdc2C3CvaUUHzO7l2O05T-oOuy3-EXObOg3MLd4EJVC9RqAQUcr5-0oc2VaASNXR4bWVyXrVwNIHcKPoptiKoep4uIkFArbUyEvr2dy2OYMNu2j0YvG6i_9hGPJrI3EM3AAZgxwE7sI7SXgEvEvOs5dOoGi6uFLbqRiNQotIk3Il1hc4HMVPP7qzlNjSkgPf27MsYWGjnSdvcEtq9sL1MKQ-J3t5csdVccgCK--qhkB547XZ5xzI-g7O-3Qv_ffqF8XECtwXrDrtkW75kV2OaI3ar1kAY1q304I-gskShSE5LYmE-N0_n4iwF8qqW4CxZqkmGcoyIv_MeASMfy-pIuBDjLa5Xv9Kj8xFWH7yhAQdvSchdECr4kS0jmg4yPY3uWfqfKcnkPAsgWaA2AemLbw-g87SCeAI8-Nm2-j17xAGT4x1WXKbZQ..
+https://glturkhstb182.glwiz.com/ATV_HD.m3u8
 #EXTINF:1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
-https://list.iptvcat.com/my_list/s/50f1c00db4a2540fd785153b67b79052.m3u8
+https://glturkhstb182.glwiz.com/FoxTurkiye_HD/FoxTurkiye_High.m3u8
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Ulusal",Beyaz TV
