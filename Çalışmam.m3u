@@ -51,7 +51,7 @@ http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
 #EXTINF:1 tvg-id="TRTHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="AHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4e5563e7-113e-4d5f-bb5c-e0adbed43932.png" group-title="Haber",A Haber
-https://list.iptvcat.com/my_list/s/56fe97f5dfad6c65122974544b4b76a1.m3u8
+https://glturkhstb182.glwiz.com/AHaber_HD.m3u8
 #EXTINF:1 tvg-id="CNNTurk.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cfaf8ef9-70b3-4524-bb96-ff4a817e8c78.png" group-title="Haber",CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 #EXTINF:1 tvg-id="TGRTHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a4e7693b-02be-405c-a534-9d90053fd681.png" group-title="Haber",TGRT Haber
@@ -123,7 +123,7 @@ https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8?st=pGnUuR0O00nvhLoERAvn7Q&e
 #EXTINF:1 tvg-id="DMAXTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/30951752-87e2-401c-8c6b-1d2aaaecdd05.png" group-title="Eğlence",DMAX
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:1 tvg-id="TLCTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf8d5574-eba6-4fe0-83c9-feca7c47591d.png" group-title="Eğlence",TLC
-https://cdn1.alfastreamtv.com/tlctv.m3u8?tkn=gK841-2dNNimBNbOaGJ_yA&tms=1669961139&hst=tr.canlitv.team
+https://glturkhstb182.glwiz.com/TLC_HD.m3u8
 #EXTINF:1 tvg-id="TV4.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a66ece6-6a72-4629-a0c1-bc742061e996.png" group-title="Eğlence",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:1 tvg-id="UcanKusTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3307043b-750d-415f-bfdb-b2148e31c6ee.png" group-title="Eğlence",Uçankuş TV
@@ -279,9 +279,9 @@ https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/in
 #EXTINF:1 tvg-id="TRTCocuk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png" group-title="Çocuk",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="MinikaCocuk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/347a440b-4f6f-45a8-97b6-ecea89581f66.png" group-title="Çocuk",Minika Çocuk
-https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8?st=TFYC-4S7mTe1jsKKnNkd4Q&e=1669991537&SessionID=hzxcjyjbocwcwy1c51jofevp&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=mobil&referrerSiteId=35ca7526-a797-40b0-9e44-7340f0225745
+https://glturkhstb182.glwiz.com/MinikaCocuk_HD.m3u8
 #EXTINF:1 tvg-id="MinikaGo.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/00af72b2-479c-4c8c-b060-0115ac028bc6.png" group-title="Çocuk",Minika Go
-https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=ksy3PBTTWaWZMFl-xFdY0A&e=1669991499&SessionID=5pnexeu34ifm2iewb2d3vio3&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobil&referrerSiteId=35ca7526-a797-40b0-9e44-7340f0225745
+https://glturkhstb182.glwiz.com/MinikaGo_HD.m3u8
 #EXTINF:1 tvg-id="EBATVIlkokul.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/86ddd608-e9b8-403b-8777-554d58953cd2.png" group-title="Çocuk",EBA TV İlkokul
 https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="EBATVOrtaokul.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6e3c8aac-deba-4451-b084-5074011a47ae.png" group-title="Çocuk",EBA TV Ortaokul
