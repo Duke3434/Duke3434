@@ -115,7 +115,7 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:1 tvg-id="A2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dca19bc0-70f5-4bd5-9132-ae7cf4c26867.png" group-title="Eğlence",A2
 https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=vSeWoTnQtfjnZVWT0-gfpA&e=1669991439&SessionID=hh5pqyjyicet5n5ix4jonizy&StreamGroup=canli-yayin&Site=&DeviceGroup=mobil&referrerSiteId=35ca7526-a797-40b0-9e44-7340f0225745
 #EXTINF:1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title="Eğlence",teve2
-https://demiroren.daioncdn.net/teve2/teve2.m3u8
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:1 tvg-id="Showmax.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5ad3514d-c4b3-4311-8e3c-9d3ebba4d5f0.png" group-title="Eğlence",Show Max
 https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1669953727&st=BhmTRovOGH2sVusY3JTwNg&tv=1
 #EXTINF:1 tvg-id="TV85.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8f3e4926-7cbd-47fb-9015-b4040a91b311.png" group-title="Eğlence",TV8.5
